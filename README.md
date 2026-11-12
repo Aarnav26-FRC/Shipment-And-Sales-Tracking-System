@@ -96,8 +96,8 @@ graph TD
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Aarnav26-FRC/shipment-sales-tracking-system.git
-cd shipment-sales-tracking-system
+git clone https://github.com/Aarnav26-FRC/Shipment-And-Sales-Tracking-System.git
+cd Shipment-And-Sales-Tracking-System
 ```
 
 ### 2. Backend Setup
